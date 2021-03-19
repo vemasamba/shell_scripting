@@ -1,1 +1,1 @@
-# shell_scripting
+# welcome to shell scripting
